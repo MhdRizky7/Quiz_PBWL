@@ -212,7 +212,7 @@
             <div class="container">
                 <div class="hm-footer-copyright text-center">
                     <p>
-                        &copy; copyright MRW. Design and developed by Muhammad Rizky Wibowo <a href="https://github.com/MhdRizky7/Quiz_PBWL.git">MRIZW</a>
+                        &copy; copyright MRW. Design and developed by Muhammad Rizky Wibowo <a href="https://github.com/MhdRizky7/Quiz_PBWL_.git">MRIZW</a>
                     </p><!--/p-->
                 </div><!--/.text-center-->
             </div><!--/.container-->
